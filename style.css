@@ -171,6 +171,12 @@ body {
     animation-delay: 2.1s
 }
 
+.home-sci a:nth-child(3) {
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 2.1s
+}
+
 .home-sci a::before {
     content: '';
     position: absolute;
