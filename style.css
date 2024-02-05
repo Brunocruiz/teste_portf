@@ -362,7 +362,7 @@ div.glowing-circle{
         flex-direction: column;
     }
 
-    .home-sci a:nth-child(3){
+    .home-sci a{
         position: relative;
     }
 
