@@ -362,6 +362,9 @@ div.glowing-circle{
         display: none;
     }
 
+    .home {
+        padding: 20 8% ;
+
     /* TEXTOS */
     .home-content h1 {
         font-size: 16px;
