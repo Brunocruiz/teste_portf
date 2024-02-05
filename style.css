@@ -365,13 +365,7 @@ div.glowing-circle{
     .home-sci:nth-child(1){
         position: fixed;
         top: 0;
-        left: 160px;
-    }
-
-    .home-sci:nth-child(2){
-        position: fixed;
-        top: 0;
-        left: 170px;
+        left: 193px;
     }
 
     /* CABEÇALHO */
