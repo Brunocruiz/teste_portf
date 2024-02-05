@@ -365,6 +365,7 @@ div.glowing-circle{
     /* TEXTOS */
     .home-content h1,h3, p{
         font-size: 16px;
+        padding: 20px 8%;
         margin-left: 25px;
     }
 }
