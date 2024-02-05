@@ -88,6 +88,8 @@ body {
 .home-content p {
     font-size: 16px;
     margin: 20px 0 40px;
+    animation: slideleft 1s ease forwards;
+    animation-delay: 1.3s;
 }
 
 .btn {
