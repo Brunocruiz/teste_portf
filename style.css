@@ -358,7 +358,7 @@ div.glowing-circle{
 @media screen and (max-width: 1100px){
 
     /* CABEÇALHO */
-    .navbar a, .home-img {
+    .navbar a, .home-img, .home-sci{
         display: none;
     }
 
