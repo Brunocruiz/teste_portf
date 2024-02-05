@@ -363,7 +363,7 @@ div.glowing-circle{
     }
 
     /* CABEÇALHO */
-    .navbar a, home-img {
+    .navbar a, .home-img {
         display: none;
     }
 }
