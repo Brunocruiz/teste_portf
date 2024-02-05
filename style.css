@@ -213,7 +213,7 @@ body {
 
 .image img {
     position: absolute;
-    top: 30px;
+    top: 5px;
     left: 50%;
     transform: translateX(-50%);
     max-width: 250px;
