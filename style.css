@@ -89,7 +89,7 @@ body {
     font-size: 16px;
     margin: 20px 0 40px;
     opacity: 0;
-    animation: slideleft 1s ease forwards;
+    animation: slideLeft 1s ease forwards;
     animation-delay: 1.3s;
 }
 
