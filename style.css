@@ -203,6 +203,6 @@ body {
 }
 
 .image img {
-    max-width: 350px;
+    max-width: 150px;
     object-fit: cover;
 }
