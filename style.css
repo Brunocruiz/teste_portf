@@ -367,4 +367,9 @@ div.glowing-circle{
         font-size: 16px;
         margin-left: 25px;
     }
+
+    /* BOTÕES */
+    a.btn {
+        margin-left: 15px;
+    }
 }
