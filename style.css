@@ -214,5 +214,6 @@ body {
 .image img {
     max-width: 250px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 25%;
+    align-items: center;
 }
