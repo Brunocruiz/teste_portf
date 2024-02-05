@@ -368,6 +368,11 @@ div.glowing-circle{
         margin-left: 25px;
     }
 
+    .home-content h1{
+        font-size: 16px;
+        margin-left: 25px;
+    }
+
     /* BOTÕES */
     .btn {
         margin-left: 70px;
