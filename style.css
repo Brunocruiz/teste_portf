@@ -247,10 +247,6 @@ body {
     filter: blur(10px);
 }
 
-div.glowing-circle{
-    left: -200px;
-}
-
 .glowing-circle .image {
     position: relative;
     width: 380px;
