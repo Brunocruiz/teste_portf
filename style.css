@@ -47,7 +47,6 @@ body {
     animation-delay: calc(.2s * var(--i));
 }
 
-.navbar a.active,
 .navbar a:hover {
     background: linear-gradient(45deg, #f06, #3cf);
     -webkit-text-fill-color: transparent;
