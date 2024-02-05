@@ -363,7 +363,8 @@ div.glowing-circle{
     }
 
     .home-sci a{
-        position: relative;
+        position: fixed;
+        top: 0;
     }
 
     /* CABEÇALHO */
