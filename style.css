@@ -262,6 +262,7 @@ body {
     transform: translateX(-50%);
     max-width: 400px;
     object-fit: cover;
+    align-items: center;
 }
 
 .glowing-circle span {
