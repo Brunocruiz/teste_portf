@@ -366,4 +366,9 @@ div.glowing-circle{
     .navbar a, .home-img {
         display: none;
     }
+
+    /* TEXTOS */
+    .home-content h1 {
+        font-size: 16;
+    }
 }
