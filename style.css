@@ -363,7 +363,7 @@ div.glowing-circle{
     }
 
     .home-sci a:nth-child(3){
-        position: top;
+        position: relative;
     }
 
     /* CABEÇALHO */
