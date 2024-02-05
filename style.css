@@ -362,6 +362,10 @@ div.glowing-circle{
         flex-direction: column;
     }
 
+    .home-sci a:nth-child(3){
+        position: top;
+    }
+
     /* CABEÇALHO */
     .navbar a, .home-img {
         display: none;
