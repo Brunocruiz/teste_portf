@@ -362,10 +362,10 @@ div.glowing-circle{
         flex-direction: column;
     }
 
-    .home-sci a{
+    .home-sci:nth-child(1){
         position: fixed;
         top: 0;
-        left: 150px;
+        left: 160px;
     }
 
     /* CABEÇALHO */
