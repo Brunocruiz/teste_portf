@@ -372,6 +372,10 @@ div.glowing-circle{
         font-size: 16px;
     }
 
+    .home-content h3{
+        font-size: 12px;
+    }
+
     /* BOTÕES */
     .btn {
         margin-left: 70px;
