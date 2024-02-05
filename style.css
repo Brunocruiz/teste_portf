@@ -31,6 +31,8 @@ body {
     text-decoration: none;
     font-weight: 600;
     pointer-events: none;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
 }
 
 .navbar a{
@@ -59,6 +61,7 @@ body {
 
 .home-content {
     max-width: 500px;
+    margin-left: -30px;
 }
 
 .home-content h1 {
@@ -229,4 +232,16 @@ body {
     height: 100%;
     background: linear-gradient(#f06, #3cf);
     border-radius: 50%;
+}
+
+/*KEYFRAMES ANIMATION*/
+@keyframes slideTop {
+    0%{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
