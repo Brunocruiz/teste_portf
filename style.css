@@ -357,29 +357,6 @@ div.glowing-circle{
 
 @media screen and (max-width: 1100px){
 
-    /* GERAIS */
-    .home-content{
-        flex-direction: column;
-    }
-
-    .home-sci:nth-child(1){
-        position: fixed;
-        top: 0;
-        left: 300px;
-    }
-
-    .home-sci:nth-child(2){
-        position: fixed;
-        top: 0;
-        left: 300px;
-    }
-
-    .home-sci:nth-child(3){
-        position: fixed;
-        top: 0;
-        left: 300px;
-    }
-
     /* CABEÇALHO */
     .navbar a, .home-img {
         display: none;
