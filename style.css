@@ -255,6 +255,11 @@ body {
     overflow: hidden;
 }
 
+.image {
+    left: 700px;
+}
+]
+
 .image img {
     position: absolute;
     top: 0;
@@ -262,7 +267,6 @@ body {
     transform: translateX(-50%);
     max-width: 400px;
     object-fit: cover;
-    align-items: center;
 }
 
 .glowing-circle span {
