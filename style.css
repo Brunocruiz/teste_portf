@@ -370,6 +370,7 @@ div.glowing-circle{
 
     /* BOTÕES */
     .btn {
-        margin-left: 20px;
+        margin-left: 70px;
+        margin-bottom: 15;
     }
 }
