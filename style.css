@@ -218,5 +218,5 @@ body {
     transform: translateX(-50%);
     max-width: 250px;
     object-fit: cover;
-    border-radius: 45%;
+    border-radius: 100%;
 }
