@@ -156,7 +156,7 @@ body {
     align-items: center;
     width: 40px;
     height: 40px;
-    left: 250px;
+    left: 40px;
     background: linear-gradient(45deg, #f06, #3cf);
     border-radius: 50%;
     font-size: 20px;
@@ -353,3 +353,5 @@ div.glowing-circle{
         transform: rotate(360deg);
     }
 }
+
+@media screen and (max-width)
