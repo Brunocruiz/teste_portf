@@ -202,3 +202,7 @@ body {
     border-radius: 50%;
 }
 
+.image img {
+    max-width: 350px;
+    object-fit: cover;
+}
