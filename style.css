@@ -206,7 +206,6 @@ body {
     position: relative;
     width: 380px;
     height: 380px;
-    background: red;
     border-radius: 50%;
     z-index: 1;
     overflow: hidden;
