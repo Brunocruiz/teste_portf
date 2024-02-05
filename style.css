@@ -269,6 +269,7 @@ body {
     height: 100%;
     background: linear-gradient(#f06, #3cf);
     border-radius: 50%;
+    animation: circleRotate 5s linear infinite;
 }
 
 /*KEYFRAMES ANIMATION*/
@@ -337,4 +338,13 @@ body {
     100%{
         transform: translateY(0);
     }  
+}
+
+@keyframes circleRotate{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
 }
