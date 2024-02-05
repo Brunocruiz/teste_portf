@@ -356,6 +356,13 @@ div.glowing-circle{
 }
 
 @media screen and (max-width: 1100px){
+
+    /* GERAIS */
+    .home-content{
+        flex-direction: column;
+    }
+
+    /* CABEÇALHO */
     .navbar a {
         display: none;
     }
