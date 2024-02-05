@@ -9,6 +9,7 @@
 
 body {
     background: #0c1022;
+    color: #fff;
 }
 
 .header {
@@ -52,4 +53,14 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
+}
+
+.home-content h1 {
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.home-content h3 {
+    font-size: 32px;
+    font-weight: 700;
 }
