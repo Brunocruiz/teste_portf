@@ -365,6 +365,7 @@ div.glowing-circle{
     .home-sci a{
         position: fixed;
         top: 0;
+        right: 0;
     }
 
     /* CABEÇALHO */
