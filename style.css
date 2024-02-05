@@ -246,6 +246,10 @@ body {
     filter: blur(10px);
 }
 
+div.glowing-circle{
+    left: 700px;
+}
+
 .glowing-circle .image {
     position: relative;
     width: 380px;
@@ -254,11 +258,6 @@ body {
     z-index: 1;
     overflow: hidden;
 }
-
-.image {
-    left: 700px;
-}
-]
 
 .image img {
     position: absolute;
