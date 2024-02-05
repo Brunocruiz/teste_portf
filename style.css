@@ -209,6 +209,7 @@ body {
     background: red;
     border-radius: 50%;
     z-index: 1;
+    overflow: hidden;
 }
 
 .image img {
@@ -218,5 +219,4 @@ body {
     transform: translateX(-50%);
     max-width: 250px;
     object-fit: cover;
-    border-radius: 80%;
 }
