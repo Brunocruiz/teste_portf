@@ -107,6 +107,9 @@ body {
     font-weight: 600;
     letter-spacing: 1px;
     z-index: 1;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 1.8s;
 }
 
 .btn::before {
