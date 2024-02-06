@@ -316,6 +316,8 @@ div.glowing-circle{
     background: green;
     height: 100vh;
     position: fixed;
+    top: 0;
+    right: 0;
 }
 
 /*KEYFRAMES ANIMATION*/
