@@ -151,7 +151,6 @@ body {
 }
 
 .home-sci {
-    border: none;
     position: relative;
     display: flex;
     justify-content: center;
@@ -164,6 +163,7 @@ body {
     margin: 20px 0;
     transform: scale(1);
     z-index: 1;
+    overflow: hidden;
 }
 
 .home-sci a:nth-child(1) {
