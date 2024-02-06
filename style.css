@@ -334,6 +334,9 @@ div.glowing-circle{
     padding: 20px 4%;
 }
 
+.menu-mobile nav ul li a:hover{
+    background: #f06;
+}
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
     0%{
