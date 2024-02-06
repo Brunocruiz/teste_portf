@@ -176,10 +176,6 @@ body {
     color: #fff;
 }
 
-.home-sci a:not(:last-child) {
-    margin-left: 15px;
-}
-
 .home-sci a:hover::before {
     text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
     background-position: 100% 0;
@@ -213,6 +209,7 @@ body {
 
 .box2 {
     opacity: 0;
+    margin-left: 15px;
     animation: slideTop 1.4s ease forwards;
     animation-delay: 2.5s;
 }
@@ -233,6 +230,7 @@ body {
 
 .box3 {
     opacity: 0;
+    margin-left: 15px;
     animation: slideTop 1.5s ease forwards;
     animation-delay: 2.7s;
 }
