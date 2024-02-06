@@ -155,7 +155,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 120px;
+    width: 40px;
     height: 40px;
     background: linear-gradient(45deg, #f06, #3cf);
     border-radius: 0%;
@@ -207,7 +207,6 @@ body {
     transform: scale(.88);
     z-index: 1;
     transition: .5s ease;
-    padding: 10px;
 }
 
 .home-sci a:hover::after {
