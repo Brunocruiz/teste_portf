@@ -155,6 +155,7 @@ body {
     justify-content: center;
     align-items: center;
     width: auto;
+    opacity: 0; 
     z-index: 1;
     animation: slideTop 1s ease forwards;
     animation-delay: 1.4s;
