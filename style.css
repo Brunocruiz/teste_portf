@@ -335,7 +335,7 @@ div.glowing-circle{
 }
 
 .menu-mobile nav ul li a:hover{
-    background: #f06;
+    background-color: #f06;
 }
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
