@@ -158,6 +158,19 @@ body {
     height: 100vh;
 }
 
+.home-sci a{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #f06, #3cf, #f06);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    fill: #0c1022;
+    box-shadow: none;
+}
+
 .home-img {
     width: 410px;
     height: 410px;
