@@ -207,6 +207,7 @@ body {
     transform: scale(.88);
     z-index: 1;
     transition: .5s ease;
+    padding: 10px;
 }
 
 .home-sci a:hover::after {
