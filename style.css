@@ -312,25 +312,7 @@ div.glowing-circle{
 }
 
 /* ESTILO MENU MOBILE*/
-.menu-mobile {
-    background: green;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    right: 0;
-    z-index: 9999;
-    width: 60%;
-}
 
-.menu-mobile nav{
-    text-align: right;
-}
-
-.menu-mobile nav a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 20px;
-}
 
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
