@@ -176,7 +176,24 @@ body {
     color: #fff;
 }
 
-.home-sci a::before{
+.home-sci a:hover::before {
+    text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
+    background-position: 100% 0;
+}
+
+.home-sci a:hover::after {
+    background-position: 100% 0;
+}
+
+
+
+.box1 {
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 2.3s;
+}
+
+.box1::before{
     content: '';
     position: absolute;
     top: 0;
@@ -190,30 +207,44 @@ body {
     filter: blur(10px);
 }
 
-.home-sci a:hover::before {
-    text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
-    background-position: 100% 0;
-}
-
-.home-sci a:hover::after {
-    background-position: 100% 0;
-}
-
-
-
-.box1 {
-    animation: slideTop 1s ease forwards;
-    animation-delay: 2.3s;
-}
-
 .box2 {
+    opacity: 0;
     animation: slideTop 3s ease forwards;
     animation-delay: 10s;
 }
 
+.box2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    inset: 0;
+    background: linear-gradient(45deg, #f06, #3cf, #f06);
+    background-size: 200%;
+    background-position: 0 0;
+    border-radius: 50%;
+    z-index: -1;
+    filter: blur(10px);
+}
+
 .box3 {
+    opacity: 0;
     animation: slideTop 5s ease forwards;
     animation-delay: 10s;
+}
+
+.box3::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    inset: 0;
+    background: linear-gradient(45deg, #f06, #3cf, #f06);
+    background-size: 200%;
+    background-position: 0 0;
+    border-radius: 50%;
+    z-index: -1;
+    filter: blur(10px);
 }
 
 .home-img {
