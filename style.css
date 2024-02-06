@@ -158,7 +158,7 @@ body {
     opacity: 0; 
     z-index: 1;
     animation: slideTop 1s ease forwards;
-    animation-delay: 1.4s;
+    animation-delay: 3s infinite;
 }
 
 .home-sci a{
