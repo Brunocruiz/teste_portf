@@ -207,12 +207,12 @@ body {
 }
 
 .box2 {
-    animation: slideTop 1s ease forwards;
+    animation: slideTop 3s ease forwards;
     animation-delay: 10s;
 }
 
 .box3 {
-    animation: slideTop 1s ease forwards;
+    animation: slideTop 5s ease forwards;
     animation-delay: 10s;
 }
 
