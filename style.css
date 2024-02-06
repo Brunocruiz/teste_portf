@@ -326,7 +326,9 @@ div.glowing-circle{
     text-align: right;
 }
 
-.menu-mobile nav
+.menu-mobile nav a {
+    color: #fff;
+}
 
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
