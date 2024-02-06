@@ -188,7 +188,6 @@ body {
     border-radius: 50%x;
     z-index: -1;
     filter: blur(5px);
-    transition: .5s ease;
 }
 
 .home-sci a:hover::before {
