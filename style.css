@@ -159,7 +159,7 @@ body {
 
 .home-sci a{
     position: relative;
-    display: inline-block;
+    display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(45deg, #f06, #3cf, #f06);
@@ -168,6 +168,7 @@ body {
     border-radius: 50%;
     fill: #0c1022;
     box-shadow: none;
+    text-decoration: none;
 }
 
 .home-img {
