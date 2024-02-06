@@ -150,7 +150,7 @@ body {
     background-position: 100% 0;
 }
 
-.home-sci a {
+.home-sci {
     position: relative;
     display: flex;
     justify-content: center;
