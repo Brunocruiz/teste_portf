@@ -187,11 +187,11 @@ body {
     background-position: 0 0;
     border-radius: 50%x;
     z-index: -1;
-    filter: blur(5px);
+    filter: blur(3px);
 }
 
 .home-sci a:hover::before {
-    text-shadow: 0 0 5px linear-gradient(45deg, #f06, #3cf, #f06);
+    text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
     background-position: 100% 0;
 }
 
