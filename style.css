@@ -199,15 +199,15 @@ body {
     background-position: 100% 0;
 }
 
-.home-sci:nth-child(1) {
+.box1 {
     animation-delay: 2.3s;
 }
 
-.home-sci:nth-child(2) {
+.box2 {
     animation-delay: 10s;
 }
 
-.home-sci:nth-child(3) {
+.box3 {
     animation-delay: 10s;
 }
 
