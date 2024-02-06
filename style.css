@@ -154,7 +154,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 30%;
+    width: auto;
 }
 
 .home-sci a{
