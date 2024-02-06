@@ -323,6 +323,7 @@ div.glowing-circle{
 }
 
 .menu-mobile nav{
+    list-style-type: none;
     text-align: right;
 }
 
