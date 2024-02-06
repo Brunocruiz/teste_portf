@@ -326,7 +326,7 @@ div.glowing-circle{
     text-align: right;
 }
 
-.menu-mobile nav a {
+.menu-mobile nav ul li a {
     color: #fff;
     text-decoration: none;
     font-size: 20px;
