@@ -159,7 +159,7 @@ body {
 
 .home-sci a{
     position: relative;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     background: linear-gradient(45deg, #f06, #3cf, #f06);
