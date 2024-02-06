@@ -151,6 +151,7 @@ body {
 }
 
 .home-sci {
+    border: none;
     position: relative;
     display: flex;
     justify-content: center;
