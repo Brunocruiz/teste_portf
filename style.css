@@ -328,6 +328,7 @@ div.glowing-circle{
 
 .menu-mobile nav a {
     color: #fff;
+    text-decoration: none;
 }
 
 /*KEYFRAMES ANIMATION*/
