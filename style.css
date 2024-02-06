@@ -204,6 +204,14 @@ body {
     animation-delay: 2.3s, 3.3s
 }
 
+.home-sci:nth-of-type(2) {
+    animation-delay: 2.6s, 3.6s
+}
+
+.home-sci:nth-of-type(3) {
+    animation-delay: 2.9s, 3.9s
+}
+
 .home-img {
     width: 410px;
     height: 410px;
