@@ -322,6 +322,10 @@ div.glowing-circle{
     width: 60%;
 }
 
+.menu-mobile nav{
+    text-align: right;
+}
+
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
     0%{
