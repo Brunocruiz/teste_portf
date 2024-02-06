@@ -313,7 +313,6 @@ div.glowing-circle{
 
 /* ESTILO MENU MOBILE*/
 .menu-mobile {
-    list-style-type: none;
     background: green;
     height: 100vh;
     position: fixed;
@@ -333,6 +332,7 @@ div.glowing-circle{
     font-size: 20px;
     font-weight: 300;
     padding: 20px 4%;
+    display: block;
 }
 
 .menu-mobile nav ul li a:hover{
