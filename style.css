@@ -319,6 +319,7 @@ div.glowing-circle{
     top: 0;
     right: 0;
     z-index: 9999;
+    width: 70%;
 }
 
 /*KEYFRAMES ANIMATION*/
