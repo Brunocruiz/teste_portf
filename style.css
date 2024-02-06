@@ -311,6 +311,11 @@ div.glowing-circle{
     animation: circleRotate 5s linear infinite;
 }
 
+/* ESTILO MENU MOBILE*/
+.menu-mobile {
+    background: green;
+}
+
 /*KEYFRAMES ANIMATION*/
 @keyframes slideTop {
     0%{
