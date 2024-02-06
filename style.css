@@ -200,6 +200,10 @@ body {
     background-position: 100% 0;
 }
 
+.home-sci a:nth-of-type(1) {
+    animation-delay: 2.3s, 3.3s
+}
+
 .home-img {
     width: 410px;
     height: 410px;
