@@ -166,6 +166,7 @@ body {
     background: linear-gradient(45deg, #f06, #3cf, #f06);
     width: 40px;
     height: 40px;
+    box-shadow: transparent;
     border-radius: 50%;
     fill: #0c1022;
     box-shadow: none;
