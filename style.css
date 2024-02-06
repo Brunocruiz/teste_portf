@@ -182,7 +182,6 @@ body {
 }
 
 .home-sci a:hover::after {
-    background-position: 100% 0;
     background: linear-gradient(45deg, #f06, #3cf, #f06);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: border-box;
