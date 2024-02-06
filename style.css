@@ -189,7 +189,7 @@ body {
 
 .box1 {
     opacity: 0;
-    animation: slideTop 1s ease forwards;
+    animation: slideTop 1.3s ease forwards;
     animation-delay: 2.3s;
 }
 
@@ -209,7 +209,7 @@ body {
 
 .box2 {
     opacity: 0;
-    animation: slideTop 3s ease forwards;
+    animation: slideTop 1.3s ease forwards;
     animation-delay: 2.5s;
 }
 
@@ -229,7 +229,7 @@ body {
 
 .box3 {
     opacity: 0;
-    animation: slideTop 5s ease forwards;
+    animation: slideTop 1.3s ease forwards;
     animation-delay: 2.5s;
 }
 
