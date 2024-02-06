@@ -183,6 +183,8 @@ body {
 
 .home-sci a:hover::after {
     background-position: 100% 0;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 
