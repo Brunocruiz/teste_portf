@@ -210,7 +210,7 @@ body {
 .box2 {
     opacity: 0;
     animation: slideTop 3s ease forwards;
-    animation-delay: 10s;
+    animation-delay: 2.5s;
 }
 
 .box2::before {
@@ -230,7 +230,7 @@ body {
 .box3 {
     opacity: 0;
     animation: slideTop 5s ease forwards;
-    animation-delay: 10s;
+    animation-delay: 2.5s;
 }
 
 .box3::before {
