@@ -314,6 +314,7 @@ div.glowing-circle{
 /* ESTILO MENU MOBILE*/
 .menu-mobile {
     background: green;
+    height: 100vh;
 }
 
 /*KEYFRAMES ANIMATION*/
