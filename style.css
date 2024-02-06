@@ -178,12 +178,12 @@ body {
     top: 0;
     left: 0;
     filter: blur(8px);
-    box-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
-    transition: box-shadow 0.5s ease-in-out;
+    text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
+    transition: text-shadow 0.5s ease-in-out;
 }
 
 .home-sci a:hover::before{
-    box-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
+    text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
 }
 
 .home-img {
