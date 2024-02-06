@@ -178,7 +178,6 @@ body {
 
 .home-sci a:hover::before {
     text-shadow: 0 0 10px linear-gradient(45deg, #f06, #3cf, #f06);
-    background-position: 100% 0;
 }
 
 .home-sci a:hover::after {
@@ -203,7 +202,6 @@ body {
     inset: 0;
     background: linear-gradient(45deg, #f06, #3cf, #f06);
     background-size: 200%;
-    background-position: 0 0;
     border-radius: 50%;
     z-index: -1;
     filter: blur(10px);
@@ -224,7 +222,6 @@ body {
     inset: 0;
     background: linear-gradient(45deg, #f06, #3cf, #f06);
     background-size: 200%;
-    background-position: 0 0;
     border-radius: 50%;
     z-index: -1;
     filter: blur(10px);
