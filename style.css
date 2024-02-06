@@ -173,6 +173,10 @@ body {
     color: #fff;
 }
 
+.home-sci a::after{
+    filter: blur(8px);
+}
+
 .home-img {
     width: 410px;
     height: 410px;
